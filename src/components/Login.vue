@@ -12,7 +12,7 @@
         </el-form-item>
         <el-form-item>
           <el-button type="primary" @click="submit()">登录</el-button>
-          <el-button>重置</el-button>
+          <el-button>ceshi</el-button>
         </el-form-item>
       </el-form>
     </div>
